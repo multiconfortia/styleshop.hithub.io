@@ -1,2 +1,2 @@
 # styleshop.hithub.io
-División de tarjetas electrónicas: Proyectos y diseños de circuitos electrónicos personalizados para diversas aplicaciones. Incluye esquemas, diagramas, y documentación técnica. Ideal para diseñadores e ingenieros. Contribuciones y soporte técnico disponibles.
+División de tarjetas electrónicas: Proyectos y diseños de circuitos personalizados, con esquemas y documentación técnica. Fusionamos moda y tecnología en comercio electrónico, redefiniendo la experiencia de compra en línea. Contribuciones y soporte técnico disponibles.
